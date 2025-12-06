@@ -50,13 +50,14 @@ If you find this work helpful for your research, please kindly consider citing o
     title     = {Perspective-Invariant 3D Object Detection},
     author    = {Ao Liang and Lingdong Kong and Dongyue Lu and Youquan Liu and Jian Fang and Huaici Zhao and Wei Tsang Ooi},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision},
+    pages     = {27725-27738},
     year      = {2025},
 }
 ```
 
 
 ## Updates
-- **[10/2025]** - We have published the baseline models and our key methods for data argmentation. See <a href="https://github.com/robosense2025/track5" target="_blank" rel="noopener noreferrer">GitHub repo</a> for more details for data preparation and installation.
+- **[10/2025]** - We have published the baseline models and our key methods for data augmentation. See <a href="https://github.com/robosense2025/track5" target="_blank" rel="noopener noreferrer">GitHub repo</a> for more details on data preparation and installation.
 - **[07/2025]** - The **Pi3DET** dataset has been extended to <strong>Track 5: Cross-Platform 3D Object Detection</strong> of the <a href="https://robosense2025.github.io/" target="_blank">RoboSense Challenge</a> at <a href="https://www.iros25.org/" target="_blank">IROS 2025</a>. See the <a href="https://robosense2025.github.io/track5" target="_blank" rel="noopener noreferrer">track homepage</a> and <a href="https://github.com/robosense2025/track5" target="_blank" rel="noopener noreferrer">GitHub repo</a> for more details.
 - **[07/2025]** - The [project page](https://pi3det.github.io/) is online. :rocket:
 - **[07/2025]** - This work has been accepted to [ICCV 2025](https://iccv.thecvf.com/Conferences/2025). See you in Honolulu! 🌸

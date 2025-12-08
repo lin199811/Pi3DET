@@ -73,20 +73,17 @@ If you find this work helpful for your research, please kindly consider citing o
 
 
 ## Outline
-
-- [Updates](#updates)
-- [Outline](#outline)
-- [:gear: Installation](#gear-installation)
-- [:hotsprings: Data Preparation](#hotsprings-data-preparation)
-- [:rocket: Getting Started](#rocket-getting-started)
-- [:snake: Model Zoo](#snake-model-zoo)
-- [:triangular\_ruler: Pi3DET Benchmark](#triangular_ruler-pi3det-benchmark)
+- [Installation](#gear-installation)
+- [Data Preparation](#hotsprings-data-preparation)
+- [Getting Started](#rocket-getting-started)
+- [Model Zoo](#snake-model-zoo)
+- [Pi3DET Benchmark](#triangular_ruler-pi3det-benchmark)
   - [Statistical Analysis](#statistical-analysis)
   - [Methodology](#methodology)
 - [Pi3DET Dataset](#pi3det-dataset)
   - [Detailed statistical information](#detailed-statistical-information)
   - [Dataset Examples](#dataset-examples)
-- [:memo: TODO List](#memo-todo-list)
+- [TODO List](#memo-todo-list)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -184,7 +181,7 @@ Pi3DET‑Net employs a two‑stage adaptation pipeline—Pre‑Adaptation uses r
 
 
 ## License
-This work is under the <a rel="license" href="https://www.apache.org/licenses/LICENSE-2.0">Apache License Version 2.0</a>, while some specific implementations in this codebase might be with other licenses. Kindly refer to [LICENSE.md](docs/LICENSE.md) for a more careful check, if you are using our code for commercial matters.
+This work is under the <a rel="license" href="https://www.apache.org/licenses/LICENSE-2.0">Apache License Version 2.0</a>, while some specific implementations in this codebase might be under other licenses. Kindly refer to [LICENSE.md](docs/LICENSE.md) for a more careful check, if you are using our code for commercial matters.
 
 
 

@@ -104,8 +104,41 @@ To learn more usage of this codebase, kindly refer to [GET_STARTED.md](docs/GET_
 
 
 
-## :snake: Model Zoo
-To be updated.
+## Model Zoo
+
+<details open>
+<summary>&nbsp<b>Grid-Based 3D Detector</b></summary>
+
+> - [x] **[SECOND](), Sensors 2018.**
+> - [x] **[PointPillar](), CVPR 2019.**
+> - [x] **[Part A*](), TPAMI 2020.**
+> - [x] **[CenterPoint](), CVPR 2021.**
+> - [x] **[Transfusion-L](), CVPR 2022.**
+> - [x] **[PillarNet](), ECCV 2022.**
+> - [x] **[HEDNet](), NeurIPS 2023.**
+> - [x] **[SAFNet](), ECCV 2024.**
+
+</details>
+
+<details open>
+<summary>&nbsp<b>Point-Based 3D Detector</b></summary>
+
+> - [x] **[PointRCNN](), CVPR 2019.**
+> - [x] **[3DSSD](), CVPR 2020.**
+> - [x] **[IA-SSD](), CVPR 2022.**
+> - [x] **[DBQ-SSD](), arXiv 2022.**
+
+</details>
+
+<details open>
+<summary>&nbsp<b>Grid-Point 3D Detector</b></summary>
+
+> - [x] **[PV-RCNN](), CVPR 2020.**
+> - [x] **[VoxelRCNN](), AAAI 2021.**
+> - [x] **[PV-RCNN++](), IJCV 2023.**
+
+</details>
+
 
 
 ## :triangular_ruler: Pi3DET Benchmark

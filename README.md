@@ -47,7 +47,7 @@ If you find this work helpful for your research, please kindly consider citing o
 
 ```bibtex
 @inproceedings{liang2025pi3det,
-    title     = {Perspective-Invariant 3D Object Detection},
+    title     = {Perspective-Invariant {3D} Object Detection},
     author    = {Ao Liang and Lingdong Kong and Dongyue Lu and Youquan Liu and Jian Fang and Huaici Zhao and Wei Tsang Ooi},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision},
     pages     = {27725-27738},

@@ -212,8 +212,8 @@ Pi3DET‑Net employs a two‑stage adaptation pipeline—Pre‑Adaptation uses r
 - [x] Initial release. 🚀
 - [x] Release the dataset for the RoboSense Challenge 2025.
 - [x] Release the code for the RoboSense Challenge 2025.
-- [ ] Release the whole Pi3DET dataset.
-- [ ] Release the code for the Pi3DET-Net method.
+- [x] Release the whole Pi3DET dataset.
+- [x] Release the code for the Pi3DET-Net method.
 
 
 
